@@ -1,3 +1,7 @@
+# WARNING: DEPRECATED
+
+GitHub is [deprecating git.io](https://github.blog/changelog/git-io-no-longer-accepts-new-urls/) so this source code will not work anymore.
+
 # Git.io in PicoLisp
 
 Command-line client for GitHub's URL shortener [git.io](https://git.io).
